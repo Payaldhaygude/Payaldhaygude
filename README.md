@@ -20,7 +20,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=payaldhaygude&show_icons=true&locale=en&layout=compact" alt="payaldhaygude" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=payaldhaygude&show_icons=true&locale=en" alt="payaldhaygude" /></p>
+<h3>My GitHub contributions summary</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=payaldhaygude&" alt="payaldhaygude" /></p>
-
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=payal-dhaygude-449780375&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://github.com/payal-dhaygude-449780375)
+<div align="left">
+  <pre>
