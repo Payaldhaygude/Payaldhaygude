@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=payaldhaygude&label=Profile%20views&color=0e75b6&style=flat" alt="payaldhaygude" /> </p>
 
-- 🔭 I’m currently working on **AI Projects**
+-  I’m currently working on **AI Projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
