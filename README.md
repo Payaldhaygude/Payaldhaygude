@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Payal Dhaygude</h1>
 <h3 align="center">A passionate student of Artificial Intelligence and Data Science</h3>
 
-<img align = "right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNkZRKAvt1ELvq2n2M4rfLt1kenCwmz5Xxhg&s">
+<img align = "right" alt="coding" width="400" src="https://images.stockcake.com/public/b/0/a/b0afd8a7-63c9-40c5-acd7-bfbc4ed715cc_large/coder-at-work-stockcake.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=payaldhaygude&label=Profile%20views&color=0e75b6&style=flat" alt="payaldhaygude" /> </p>
 
