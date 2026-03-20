@@ -23,5 +23,5 @@
 <h3>My GitHub contributions summary</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=payaldhaygude&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=payaldhaygude&theme=dark&hide_border=true&cache_seconds=86400" />
 </p>
