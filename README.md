@@ -24,8 +24,15 @@
   />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=payaldhaygude&show_icons=true&locale=en" alt="payaldhaygude" /></p>
-<h3>My GitHub contributions summary</h3>
+<p align="center">
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=payaldhaygude&show_icons=true&theme=tokyonight" 
+    alt="GitHub Stats"
+  />
+</p>
+
+
+<h3 align="center">My GitHub Contributions Summary</h3>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=payaldhaygude&theme=dark&hide_border=true&cache_seconds=86400" />
