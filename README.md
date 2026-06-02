@@ -32,6 +32,8 @@
 </p>
 
 
+<h3 align="center">📈 Contribution Graph</h3>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Payaldhaygude&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Payaldhaygude&theme=github-dark" />
 </p>
