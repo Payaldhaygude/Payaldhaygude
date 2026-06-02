@@ -26,14 +26,14 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=payaldhaygude&show_icons=true&theme=tokyonight" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Payaldhaygude&show_icons=true&theme=tokyonight" 
     alt="GitHub Stats"
   />
 </p>
 
 
-<h3 align="center">My GitHub Contributions Summary</h3>
+<h3 align="center">🔥 My GitHub Contributions Summary</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=payaldhaygude&theme=dark&hide_border=true&cache_seconds=86400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Payaldhaygude&theme=github_dark" />
 </p>
