@@ -87,7 +87,7 @@
 
 <p align="center">
   <img 
-    src="https://commit-warrior.vercel.app/api/graph?username=Payaldhaygude"
+    src="https://github-activity-chart.vercel.app/graph?username=Payaldhaygude"
     alt="Payal's Contribution Graph"
   />
 </p>
